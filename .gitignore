@@ -1,0 +1,31 @@
+# Archivos de configuración de Rider
+.idea/
+
+# Carpetas generadas por el compilador de .NET
+bin/
+obj/
+
+# Archivos de configuración específicos del sistema
+.vs/
+.vscode/
+
+# Archivos de configuración de dependencias de NuGet
+packages/
+
+# Archivos generados por Rider
+.idea/
+
+# Archivos de usuario
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Archivos de log
+*.log
+
+# Archivos de cache
+.cache/
+
+# Archivos temporales
+*.tmp
